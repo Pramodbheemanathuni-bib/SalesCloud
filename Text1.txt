@@ -5,4 +5,8 @@ Second line is added
 
 Extra line added
 
+<<<<<<< HEAD
 Mastercopy name
+=======
+Part1 created
+>>>>>>> Part1
