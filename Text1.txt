@@ -6,3 +6,5 @@ Second line is added
 Extra line added
 
 Part1 created
+
+Added New line 
